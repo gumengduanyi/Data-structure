@@ -1,0 +1,18 @@
+.DS_Store
+.vscode/
+*.code-workspace
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+*.dSYM/
+*.log
+# Binary artifacts
+数据结构/3
+数据结构/队列和栈
+数据结构/链式栈
+数据结构/链式队列
